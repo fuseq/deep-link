@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.inmapper_deep_link",
+      "sha256_cert_fingerprints": [
+        "CF:2A:55:F3:F8:5A:26:C7:1C:8F:11:D9:14:E4:47:35:56:4F:A4:E0:B9:E5:53:01:CB:EB:76:51:93:D6:68:09"
+      ]
+    }
+  }
+]
